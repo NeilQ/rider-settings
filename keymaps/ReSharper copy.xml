@@ -1,0 +1,13 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="CheckinProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+</keymap>
