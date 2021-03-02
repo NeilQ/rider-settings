@@ -30,5 +30,6 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
+    <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
   </component>
 </application>
