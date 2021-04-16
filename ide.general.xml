@@ -36,7 +36,6 @@
       <map>
         <entry key="IdeaVim-Icon" value="false" />
         <entry key="Notifications" value="false" />
-        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>
   </component>
