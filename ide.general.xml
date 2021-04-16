@@ -31,4 +31,13 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="IdeaVim-Icon" value="false" />
+        <entry key="Notifications" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
