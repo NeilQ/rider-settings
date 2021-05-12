@@ -36,6 +36,7 @@
       <map>
         <entry key="IdeaVim-Icon" value="false" />
         <entry key="Notifications" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
       </map>
     </option>
   </component>
