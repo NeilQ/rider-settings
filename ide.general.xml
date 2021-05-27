@@ -30,6 +30,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
+    <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
