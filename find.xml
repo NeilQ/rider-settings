@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Acartons.Domain'" />
+    <option name="defaultScopeName" value="Project 'Acartons.Domain'" />
+    <option name="SEARCH_SCOPE" value="Project 'Acartons.Domain'" />
   </component>
 </application>
