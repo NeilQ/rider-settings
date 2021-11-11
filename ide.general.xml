@@ -35,6 +35,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="DPA" value="false" />
         <entry key="IdeaVim-Icon" value="false" />
         <entry key="Notifications" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
