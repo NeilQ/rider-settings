@@ -13,6 +13,7 @@
     <option name="FONT_FAMILY" value="Cascadia Code" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Roman" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Roman" />
+    <option name="LINE_SPACING" value="1.4" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
