@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
   </component>
 </application>
